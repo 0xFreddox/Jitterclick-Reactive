@@ -10,9 +10,25 @@ To get started with the Jitterclick Test, follow these steps:
     ```
     git clone <repository-url>
     ```
-2. Open the index.html file in your web browser.
 
-3. Click the button as rapidly as possible within the time limit to achieve a high score.
+2. Navigate to the project directory:
+    ```
+    cd JitterClick-React
+    ```
+
+3. Install the dependencies using npm:
+    ```
+    npm install
+    ```
+
+4. Start the development server:
+    ```
+    npm start
+    ```
+
+5. Open your web browser and navigate to `http://localhost:3000` to view the app.
+
+6. Click the button as rapidly as possible within the time limit to achieve a high score.
 
 ## Features ✨
 
@@ -25,6 +41,7 @@ To get started with the Jitterclick Test, follow these steps:
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## License 📄
 
